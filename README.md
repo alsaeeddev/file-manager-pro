@@ -57,7 +57,7 @@ No sign-up required — just download and build.
 ## 🐛 Bug Reports & Suggestions
 
 If you encounter any bugs or have suggestions to improve this project, feel free to reach out.  
-📧 I'm always open to feedback and happy to help – email me at: **hello@alsaeeddev.com)**
+📧 I'm always open to feedback and happy to help – email me at: **alsaeeddev@gmail.com)**
 
 
 ---
